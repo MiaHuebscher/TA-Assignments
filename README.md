@@ -14,3 +14,5 @@ Agents driving evolutionary process:
 3) fix_unpreferred(): unassigns each TA from sections that are not preferred
 4) fix_overassignment(): ensures TAs are not teaching more sections than they are willing to
 5) fix_undersupport(): ensures sections are being supported by enough TAs
+
+To begin the evolutionary process for this task, run the "assign_tas.py" file.
