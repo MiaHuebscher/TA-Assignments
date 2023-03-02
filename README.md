@@ -1,5 +1,5 @@
 # TA-Assignments
-Utilizes evolutionary computing and functional programming to find a solution of TA assignments that satisfies both the TA preferences (number of days assigned, times of assignment, etc.) and the Instructor preferences (minimum number of TAs in a section, times of the section, etc.)
+Utilizes evolutionary computing and functional programming to assign teaching assistants to course sections in a way that satisfies both the teaching assistants' preferences (number of days assigned, times of assignment, etc.) and the instructors' preferences (minimum number of TAs in a section, times of the section, etc.)
 
 Objectives driving evolutionary processes:
 1) Minimize overallocation of TAs (assigning TAs to more sections than they are willing to take on)
